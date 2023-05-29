@@ -25,7 +25,7 @@
     background-color: #ccc;
     border-radius: 20px;
     margin-bottom: 2rem;
-    overflow: scroll;
+    overflow:auto;
 }
 .wrapper{
     display: flex;
